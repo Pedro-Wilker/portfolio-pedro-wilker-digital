@@ -22,8 +22,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      href: 'mailto:contact@pedrowilker.dev',
-      username: 'contact@pedrowilker.dev',
+      href: 'mailto:contato@pedrowilker.dev',
+      username: 'contato@pedrowilker.dev',
     },
   ];
 
