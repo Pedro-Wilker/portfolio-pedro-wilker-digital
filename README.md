@@ -79,78 +79,89 @@ Este projeto foi desenvolvido utilizando:
 └── package.json         # Dependências e scripts
 ```
 
-🚀 Como rodar localmente
-bash
-Copiar código
+---
+
+## 🚀 Como rodar localmente
+
+```bash
 git clone https://github.com/Pedro-Wilker/portfolio-pedro-wilker-digital.git
 cd portfolio-pedro-wilker-digital
 npm install
 npm run dev
-Acesse no navegador:
+```
+
+Acesse no navegador:  
 👉 http://localhost:5173
 
-🌎 Deploy
+---
+
+## 🌎 Deploy
+
 O projeto pode ser facilmente publicado em plataformas como:
 
-Vercel
+- **Vercel**
+- **Netlify**
+- **GitHub Pages**
 
-Netlify
+---
 
-GitHub Pages
+## 📬 Contato
 
-📬 Contato
-GitHub: https://github.com/Pedro-Wilker
+**GitHub:** [https://github.com/Pedro-Wilker](https://github.com/Pedro-Wilker)
+
+---
 
 <br>
-🇺🇸 Pedro Wilker Digital Portfolio
-Welcome to my professional personal portfolio.
-This project represents my digital presence as a Full Stack Developer, showcasing my projects, skills, and professional profile in a modern and responsive interface.
 
-🎯 Goal: to present my work clearly and professionally to recruiters, companies, and clients.
+# 🇺🇸 Pedro Wilker Digital Portfolio
 
-✨ About me
-I’m Pedro Wilker, a Full Stack Developer experienced in building modern, scalable, and user-focused web applications.
-I work with technologies such as Java, TypeScript, React, Node.js, Spring Boot and Python, delivering complete solutions from backend to frontend.
+Welcome to my **professional personal portfolio**.  
+This project represents my digital presence as a **Full Stack Developer**, showcasing my projects, skills, and professional profile in a modern and responsive interface.
+
+🎯 **Goal:** to present my work clearly and professionally to recruiters, companies, and clients.
+
+---
+
+## ✨ About me
+
+I'm **Pedro Wilker**, a Full Stack Developer experienced in building modern, scalable, and user-focused web applications.  
+I work with technologies such as **Java, TypeScript, React, Node.js, Spring Boot and Python**, delivering complete solutions from backend to frontend.
 
 This portfolio was created to showcase:
 
-My main projects
+- My main projects
+- My technical skills
+- My professional identity
 
-My technical skills
+---
 
-My professional identity
+## 🧠 Technologies
 
-🧠 Technologies
 This project was built using:
 
-TypeScript
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
-Vite
+---
 
-Tailwind CSS
+## 🧩 Features
 
-HTML5
+- Fully responsive layout
+- Modern and clean UI
+- Projects section
+- About me section
+- Contact information
+- Smooth navigation
 
-CSS3
+---
 
-JavaScript
+## 📁 Project Structure
 
-🧩 Features
-Fully responsive layout
-
-Modern and clean UI
-
-Projects section
-
-About me section
-
-Contact information
-
-Smooth navigation
-
-📁 Project Structure
-text
-Copiar código
+```text
 ├── public/              # Public assets
 ├── src/                 # Application source
 │   ├── components/      # Reusable components
@@ -161,24 +172,34 @@ Copiar código
 ├── tailwind.config.ts   # Tailwind config
 ├── vite.config.ts       # Vite config
 └── package.json         # Dependencies and scripts
-🚀 Run locally
-bash
-Copiar código
+```
+
+---
+
+## 🚀 Run locally
+
+```bash
 git clone https://github.com/Pedro-Wilker/portfolio-pedro-wilker-digital.git
 cd portfolio-pedro-wilker-digital
 npm install
 npm run dev
-Open in your browser:
+```
+
+Open in your browser:  
 👉 http://localhost:5173
 
-🌎 Deployment
+---
+
+## 🌎 Deployment
+
 You can easily deploy this project using:
 
-Vercel
+- **Vercel**
+- **Netlify**
+- **GitHub Pages**
 
-Netlify
+---
 
-GitHub Pages
+## 📬 Contact
 
-📬 Contact
-GitHub: https://github.com/Pedro-Wilker
+**GitHub:** [https://github.com/Pedro-Wilker](https://github.com/Pedro-Wilker)
