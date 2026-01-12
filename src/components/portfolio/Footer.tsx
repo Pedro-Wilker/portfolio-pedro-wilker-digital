@@ -11,7 +11,7 @@ const Footer = () => {
             © {currentYear} Pedro Wilker. All rights reserved.
           </p>
           <p className="text-muted-foreground text-sm flex items-center gap-1">
-            Made with <Heart className="w-4 h-4 text-red-500 fill-red-500" /> in Salvador, Brazil
+            Made in Salvador, Brazil
           </p>
         </div>
       </div>
